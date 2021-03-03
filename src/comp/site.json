@@ -1,0 +1,27 @@
+[
+    {
+        "title": "naver",
+        "link": "https://www.naver.com",
+        "initial": "N"
+    },
+    {
+        "title": "github",
+        "link": "https://www.github.com",
+        "initial": "G"
+    },
+    {
+        "title": "facebook",
+        "link": "https://www.facebook.com",
+        "initial": "F"
+    },
+    {
+        "title": "youtube",
+        "link": "https://www.youtube.com",
+        "initial": "Y"
+    },
+    {
+        "title": "yahoo",
+        "link": "https://www.yahoo.com",
+        "initial": "Y"
+    }
+]
